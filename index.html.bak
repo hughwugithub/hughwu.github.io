@@ -27,14 +27,14 @@
 </head>
 </html>
 <body>
- <div id="container">
+  <div id="container">
     <div id="wrap">
-      <!--<header id="header">
+      <header id="header">
   <div id="banner"></div>
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
       <h1 id="logo-wrap">
-        <a href="/" id="logo">СŮ��������</a>
+        <a href="/" id="logo">Hexo</a>
       </h1>
       
     </div>
@@ -58,11 +58,39 @@
       </div>
     </div>
   </div>
-</header>-->
-       <!-- <div class="outer">
+</header>
+      <div class="outer">
         <section id="main">
   
-   <article id="post-hello-world" class="article article-type-post" itemscope="" itemprop="blogPost">
+    <article id="post-第一篇" class="article article-type-post" itemscope="" itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2019/01/24/第一篇/" class="article-date">
+  <time datetime="2019-01-24T06:18:24.428Z" itemprop="datePublished">2019-01-24</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>@<a href="靠你吉娃，我住巴克寓所">TOC</a></p>
+<h1 id="这是一个小黄网"><a href="#这是一个小黄网" class="headerlink" title="这是一个小黄网"></a>这是一个小黄网</h1><p>点击<a href="http://www.baidu.com" target="_blank" rel="noopener">这里</a>进入。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2019/01/24/第一篇/" data-id="cjra89xra0001h4uk43d8qsac" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+  
+    <article id="post-hello-world" class="article article-type-post" itemscope="" itemprop="blogPost">
   <div class="article-meta">
     <a href="/2019/01/24/hello-world/" class="article-date">
   <time datetime="2019-01-24T01:44:07.921Z" itemprop="datePublished">2019-01-24</time>
@@ -97,10 +125,10 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2019/01/24/hello-world/" data-id="cjra5zx0i0000r4uk6ilt62er" class="article-share-link">Share</a>
+      <a data-url="http://yoursite.com/2019/01/24/hello-world/" data-id="cjra89xqv0000h4ukiltp0eke" class="article-share-link">Share</a>
       
       
-    </footer> 
+    </footer>
   </div>
   
 </article>
@@ -137,6 +165,10 @@
       <ul>
         
           <li>
+            <a href="/2019/01/24/第一篇/">(no title)</a>
+          </li>
+        
+          <li>
             <a href="/2019/01/24/hello-world/">Hello World</a>
           </li>
         
@@ -147,8 +179,8 @@
   
 </aside>
         
-      </div>-->
-      <!--<footer id="footer">
+      </div>
+      <footer id="footer">
   
   <div class="outer">
     <div id="footer-info" class="inner">
@@ -156,7 +188,7 @@
       Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
-</footer>-->
+</footer>
     </div>
     <nav id="mobile-nav">
   
