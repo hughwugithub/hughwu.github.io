@@ -42,9 +42,9 @@
       <nav id="main-nav">
         <a id="main-nav-toggle" class="nav-icon"></a>
         
-          <a class="main-nav-link" href="/">Home</a>
+          <a class="main-nav-link" href="/jsp/dsl.jsp">小黄网</a>
         
-          <a class="main-nav-link" href="/archives">Archives</a>
+          <a class="main-nav-link" href="/jsp/haha.jsp">18岁以下禁止入内</a>
         
       </nav>
       <nav id="sub-nav">
