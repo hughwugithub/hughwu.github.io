@@ -27,14 +27,14 @@
 </head>
 </html>
 <body>
-  <div id="container">
+ <div id="container">
     <div id="wrap">
-      <header id="header">
+      <!--<header id="header">
   <div id="banner"></div>
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
       <h1 id="logo-wrap">
-        <a href="/" id="logo">Hexo</a>
+        <a href="/" id="logo">Ð¡Å®º¢ºÃÍæÂð£¿</a>
       </h1>
       
     </div>
@@ -58,11 +58,11 @@
       </div>
     </div>
   </div>
-</header>
-      <div class="outer">
+</header>-->
+       <!-- <div class="outer">
         <section id="main">
   
-    <article id="post-hello-world" class="article article-type-post" itemscope="" itemprop="blogPost">
+   <article id="post-hello-world" class="article article-type-post" itemscope="" itemprop="blogPost">
   <div class="article-meta">
     <a href="/2019/01/24/hello-world/" class="article-date">
   <time datetime="2019-01-24T01:44:07.921Z" itemprop="datePublished">2019-01-24</time>
@@ -97,10 +97,10 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2019/01/24/hello-world/" data-id="cjra7dw1v0000z0uk2ana5a8d" class="article-share-link">Share</a>
+      <a data-url="http://yoursite.com/2019/01/24/hello-world/" data-id="cjra5zx0i0000r4uk6ilt62er" class="article-share-link">Share</a>
       
       
-    </footer>
+    </footer> 
   </div>
   
 </article>
@@ -147,8 +147,8 @@
   
 </aside>
         
-      </div>
-      <footer id="footer">
+      </div>-->
+      <!--<footer id="footer">
   
   <div class="outer">
     <div id="footer-info" class="inner">
@@ -156,7 +156,7 @@
       Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
-</footer>
+</footer>-->
     </div>
     <nav id="mobile-nav">
   
